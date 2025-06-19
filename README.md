@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @gitikabhardwaj.
-- 👀 Interested in precision medicine, genomic analysis, and statistical analysis.
-- 💞️ Looking to collaborate on projects related to oncology genomic research.
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/gitabhardwaj)  or email me at gita.bhardwaj1@gmail.com.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I was born in Singapore!
+- Hi, I’m @gitikabhardwaj.
+- Interested in precision medicine, genomic analysis, and statistical analysis.
+- Looking to collaborate on projects related to oncology genomic research.
+- Connect with me on [LinkedIn](https://linkedin.com/in/gitabhardwaj)  or email me at gita.bhardwaj1@gmail.com.
