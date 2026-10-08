@@ -1,18 +1,22 @@
-## Hi, I'm Gita Bhardwaj 👋
+# Hi, I'm Gita Bhardwaj 👋
 
-I'm a biotechnology and data professional who applies bioinformatics, statistical analysis, and data science to healthcare and life sciences.
+I'm a biotechnology and data professional with a background in biomedical research and healthcare and life sciences consulting. I'm especially interested in using computational methods to better understand biology and answer meaningful scientific questions.
 
 My work spans transcriptomics, genomic data analysis, healthcare analytics, and reproducible computational workflows using **R, Python, and SQL**.
 
 ### Current Focus
-- Bioinformatics and transcriptomic data analysis
-- Healthcare and life sciences analytics
+
+- Bioinformatics and transcriptomic analysis
+- Computational biology and neuroscience
 - Statistical analysis and data visualization
-- Reproducible R and Python workflows
+- Reproducible research and machine learning
 
 ### Featured Project
-🧬 [Endometriosis Transcriptomics Analysis](https://github.com/gitikabhardwaj/endometriosis-transcriptomics-analysis)  
-End-to-end RNA-seq analysis using DESeq2 and ranked gene-set enrichment analysis to investigate transcriptomic differences associated with endometriosis.
+
+🧬 **[Endometriosis Transcriptomics Analysis](https://github.com/gitikabhardwaj/endometriosis-transcriptomics-analysis)**
+
+An exploratory RNA-seq analysis using DESeq2 and ranked gene-set enrichment to investigate transcriptomic differences associated with endometriosis.
 
 ### Connect
+
 [LinkedIn](https://linkedin.com/in/gitabhardwaj)
